@@ -1,5 +1,5 @@
 # Hi, I'm Sai 💫
-## 🔐 3rd-year Cyber Security student at Amrita Vishwa Vidyapeetham, Chennai<br/><br>💻 Passionate about ethical hacking, system security, and malware analysis<br/><br>🧠 Currently exploring AI-powered security and multimedia-based ML projects<br/><br>🛠 Projects include gesture recognition, technofest management system, and web security tools<br/><br>🌐 Always curious about combining creativity with security<br/><br>Let's connect and build something secure and smart![Instagram](https://instagram.com/sainivedhh/)
+## 🔐 3rd-year Cyber Security student at Amrita Vishwa Vidyapeetham, Chennai<br/><br>💻 Passionate about ethical hacking, system security, and malware analysis<br/><br>🧠 Currently exploring AI-powered security and multimedia-based ML projects<br/><br>🛠 Projects include gesture recognition, technofest management system, and web security tools<br/><br>🌐 Always curious about combining creativity with security<br/><br>Let's connect and build something secure and smart![![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://instagram.com/sainivedhh)
 
 
 # 💻 Tech Stack:
