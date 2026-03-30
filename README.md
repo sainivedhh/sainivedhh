@@ -14,7 +14,7 @@
 🚩 CTF player (forensics + network analysis) · IEEE paper author · embedded security tinkerer<br/>
 ⚡ Currently finalizing two capstone projects approaching final review<br/>
 
-![Status](https://img.shields.io/badge/status-open%20to%20research%20collab%20%26%20internships-00d278?style=flat-square&labelColor=111184)
+![Status](https://img.shields.io/badge/status-open%20to%20research%20collab%20%26%20internships-000080?style=flat-square&labelColor=111184)
 
 ---
 
