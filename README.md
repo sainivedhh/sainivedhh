@@ -95,7 +95,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sainivedhh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainivedhh)
 
-[![](https://visitcount.itsvg.in/api?id=sainivedhh&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sainivedhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 *built with caffeine & curiosity · sainivedhh*
