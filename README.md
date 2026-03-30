@@ -18,17 +18,6 @@
 
 ---
 
-## 🛠 Active Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔬 **LiveMemForensics** | Python pipeline for live memory forensics targeting E2EE messaging apps (WhatsApp Web). YARA rules, artifact extraction, HTML/JSON reporting. | Python · YARA · Volatility3 |
-| 🔑 **API Misconfig Scanner v2** | Black-box security testing for JWT, HMAC, OAuth 2.0. Katana-based endpoint discovery, auto token-type detection. | Python · JWT · OAuth · Katana |
-| 🌐 **NetTrace** | PCAP forensics tool with Dash UI — flow analysis, TLS SNI extraction, C2 beaconing detection, port scan detection, suspicion scoring. | Dash · Scapy · PCAP |
-| 📡 **ESP8266 IDS** | NodeMCU-based intrusion detection system using DFA logic with a web control panel and LED attack indicators. Non-blocking millis() architecture. | C++ · ESP8266 · DFA |
-
----
-
 ## 💻 Tech Stack
 
 **Languages**<br/>
