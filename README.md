@@ -11,8 +11,7 @@
 
 🔍 Building security tools that *actually work* — memory forensics, API scanners, network analysis<br/>
 🧠 Exploring the intersection of **AI × offensive security** through capstone research<br/>
-🚩 CTF player (forensics + network analysis) · IEEE paper author · embedded security tinkerer<br/>
-⚡ Currently finalizing two capstone projects approaching final review<br/>
+🚩 CTF player (forensics + network analysis) · embedded security tinkerer<br/>
 
 ![Status](https://img.shields.io/badge/status-open%20to%20research%20collab%20%26%20internships-000080?style=flat-square&labelColor=111184)
 
@@ -67,7 +66,7 @@
 
 ## 🚩 CTF & Research Interests
 
-`Forensics` · `Network Analysis` · `API Security` · `Memory Forensics` · `Embedded Security` · `AI × Security` · `IEEE Research` · `Cryptographic Attacks`
+`Forensics` · `Network Analysis` · `API Security` · `Memory Forensics` · `Embedded Security` · `AI × Security` · `Cryptographic Attacks`
 
 ---
 
