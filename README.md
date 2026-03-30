@@ -84,16 +84,16 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sainivedhh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d278&text_color=8b949e&icon_color=00b4ff)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sainivedhh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d278&fire=f97316&currStreakLabel=00b4ff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainivedhh&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d278&text_color=8b949e)
+![](https://github-readme-stats.vercel.app/api?username=sainivedhh&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sainivedhh&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainivedhh&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🔗 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sainivedhh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainivedhh)
 
 [![](https://visitcount.itsvg.in/api?id=sainivedhh&icon=6&color=12)](https://visitcount.itsvg.in)
 
