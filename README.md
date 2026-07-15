@@ -7,7 +7,7 @@
 
 # Hi, I'm Sai 👾
 
-**3rd-year Cyber Security student · Amrita Vishwa Vidyapeetham, Chennai**
+**Final year Cyber Security student · Amrita Vishwa Vidyapeetham, Chennai**
 
 🔍 Building security tools that *actually work* — memory forensics, API scanners, network analysis<br/>
 🧠 Exploring the intersection of **AI × offensive security** through capstone research<br/>
