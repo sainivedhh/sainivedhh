@@ -68,7 +68,7 @@ class Sai:
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sainivedhh&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sainivedhh&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainivedhh&layout=compact&theme=react&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=003b2f&langs_count=8" alt="top langs"/>
 
