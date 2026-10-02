@@ -68,7 +68,6 @@ class Sai:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sainivedhh&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sainivedhh&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainivedhh&layout=compact&theme=react&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=003b2f&langs_count=8" alt="top langs"/>
 
@@ -83,7 +82,7 @@ class Sai:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainivedhh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="activity graph"/>
+  <img src="https://ghchart.rshah.org/00ff9c/sainivedhh" width="100%" alt="contribution chart"/>
 </div>
 
 ---
@@ -143,7 +142,7 @@ class Sai:
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=sainivedhh&icon=0&color=0" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=sainivedhh&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="views"/>
 
 <br/>
 
