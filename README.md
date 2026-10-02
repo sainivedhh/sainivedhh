@@ -1,81 +1,154 @@
-<!-- Header -->
+<!-- Animated header -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2f,100:00ff9c&height=220&section=header&text=Sai%20Nivedh%20S&fontSize=58&fontColor=00ff9c&fontAlignY=38&desc=Cyber%20Security%20%C2%B7%20Forensics%20%C2%B7%20AI%20%C3%97%20Offensive%20Security&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+
+<!-- Typing animation -->
+<a href="https://github.com/sainivedhh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sai+%F0%9F%91%BE;Final+year+Cyber+Security+student;Building+security+tools+that+actually+work;Memory+forensics+%7C+API+scanners+%7C+Network+analysis;CTF+player+%F0%9F%9A%A9+Forensics+%2B+Network+Analysis" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20research%20collab%20%26%20internships-00ff9c?style=for-the-badge&labelColor=0d1117" alt="status"/>
+
+</div>
+
+---
+
+## 👾 About Me
+
+```python
+class Sai:
+    role     = "Final-year Cyber Security student @ Amrita Vishwa Vidyapeetham, Chennai"
+    building = ["memory forensics tools", "API security scanners", "network analysis"]
+    research = "AI x Offensive Security (capstone)"
+    plays    = "CTFs: forensics + network analysis"
+    tinkers  = "embedded security (ESP8266, Arduino)"
+
+    def motto(self):
+        return "built with caffeine & curiosity"
 ```
-╔══════════════════════════════════════════════════════════╗
-║              sainivedhh · github.com                     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-# Hi, I'm Sai 👾
-
-**Final year Cyber Security student · Amrita Vishwa Vidyapeetham, Chennai**
-
-🔍 Building security tools that *actually work* — memory forensics, API scanners, network analysis<br/>
-🧠 Exploring the intersection of **AI × offensive security** through capstone research<br/>
-🚩 CTF player (forensics + network analysis) · embedded security tinkerer<br/>
-
-![Status](https://img.shields.io/badge/status-open%20to%20research%20collab%20%26%20internships-000080?style=flat-square&labelColor=111184)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+<div align="center">
 
-**Security & Forensics**<br/>
-![YARA](https://img.shields.io/badge/YARA-00d278?style=flat-square&logoColor=white)
-![Volatility3](https://img.shields.io/badge/Volatility3-00d278?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-00d278?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Katana](https://img.shields.io/badge/Katana-00d278?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth%202.0-00b4ff?style=flat-square&logoColor=white)
-![HMAC](https://img.shields.io/badge/HMAC-00d278?style=flat-square&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Languages**
 
-**Frameworks & ML**<br/>
-![Dash](https://img.shields.io/badge/Dash-00b4ff?style=flat-square&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,powershell,html,css,latex&theme=dark" alt="languages"/>
 
-**Embedded & Hardware**<br/>
-![ESP8266](https://img.shields.io/badge/ESP8266%20NodeMCU-f97316?style=flat-square&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino%20Framework-00979D?style=flat-square&logo=arduino&logoColor=white)
+**Frameworks & ML**
 
-**Tools & Design**<br/>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark" alt="ml"/>
+
+**Embedded & Tools**
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,linux,bash,photoshop&theme=dark" alt="tools"/>
+
+**Security & Forensics**
+
+<img src="https://img.shields.io/badge/YARA-00d278?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Volatility3-00d278?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scapy-00d278?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Katana-00d278?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-00b4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HMAC-00d278?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sainivedhh&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainivedhh&layout=compact&theme=react&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=003b2f&langs_count=8" alt="top langs"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sainivedhh&theme=react&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=003b2f" alt="streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainivedhh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="activity graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sainivedhh/sainivedhh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sainivedhh/sainivedhh/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/sainivedhh/sainivedhh/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- The snake appears after you add .github/workflows/snake.yml and run it once -->
 
 ---
 
 ## 🚩 CTF & Research Interests
 
+<div align="center">
+
 `Forensics` · `Network Analysis` · `API Security` · `Memory Forensics` · `Embedded Security` · `AI × Security` · `Cryptographic Attacks`
+
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sainivedhh/MouseControl-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sainivedhh&repo=MouseControl-ML&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="MouseControl-ML"/>
+</a>
+<a href="https://github.com/sainivedhh/YumWell-WebDevt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sainivedhh&repo=YumWell-WebDevt&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="YumWell"/>
+</a>
+
+<a href="https://github.com/sainivedhh/TaskManager-JS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sainivedhh&repo=TaskManager-JS&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="TaskManager-JS"/>
+</a>
+<a href="https://github.com/sainivedhh/ImageFeatureExtraction-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sainivedhh&repo=ImageFeatureExtraction-ML&theme=react&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=003b2f" alt="ImageFeatureExtraction-ML"/>
+</a>
+
+</div>
 
 ---
 
 ## 🔗 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sainivedhh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainivedhh)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=sainivedhh&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/sainivedhh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/sainivedhh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
----
-*built with caffeine & curiosity · sainivedhh*
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=sainivedhh&icon=0&color=0" alt="visitors"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=built+with+caffeine+%26+curiosity+%C2%B7+sainivedhh" alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2f,100:00ff9c&height=120&section=footer" width="100%" alt="footer wave"/>
+
+</div>
