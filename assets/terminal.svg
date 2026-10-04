@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Courier New',monospace">
+  <style>
+    .ln { fill:#3b4b3f; font-size:13px; }
+    .c  { font-size:14px; fill:#e0e3e8; white-space:pre; }
+    .kw { fill:#00b3fe; }
+    .cl { fill:#00ff9c; font-weight:700; }
+    .at { fill:#849587; }
+    .st { fill:#c9e6ff; }
+    .hl { fill:#56ffa7; }
+    .cm { fill:#4a5a4e; }
+    .row { opacity:0; animation: fadein .5s ease forwards; }
+    @keyframes fadein { from {opacity:0; transform:translateX(-6px);} to {opacity:1; transform:none;} }
+    .r1{animation-delay:.3s} .r2{animation-delay:.9s} .r3{animation-delay:1.5s} .r4{animation-delay:2.1s}
+    .r5{animation-delay:2.7s} .r6{animation-delay:3.3s} .r7{animation-delay:3.9s} .r8{animation-delay:4.5s} .r9{animation-delay:5.1s}
+    .blink { animation: blink 0.9s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+
+  <rect width="900" height="330" rx="10" fill="#0a0f13" stroke="#00ff9c" stroke-opacity="0.35"/>
+
+  <!-- title bar -->
+  <path d="M0 10a10 10 0 0 1 10-10h880a10 10 0 0 1 10 10v30H0z" fill="#181c20"/>
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#3b4b3f" stroke-opacity="0.6"/>
+  <circle cx="24" cy="20" r="6" fill="#ffb4ab" fill-opacity="0.8"/>
+  <circle cx="44" cy="20" r="6" fill="#00b3fe" fill-opacity="0.8"/>
+  <circle cx="64" cy="20" r="6" fill="#00ff9c" fill-opacity="0.8"/>
+  <text x="86" y="25" font-size="12" fill="#b9cbbc">sai@arch-node: ~/research/dossier.py (python3)</text>
+  <text x="876" y="25" font-size="10" fill="#849587" text-anchor="end" letter-spacing="1">UTF-8 // LF // Python 3.12</text>
+
+  <!-- line numbers -->
+  <g class="ln">
+    <text x="24" y="70">1</text><text x="24" y="94">2</text><text x="24" y="118">3</text>
+    <text x="24" y="142">4</text><text x="24" y="166">5</text><text x="24" y="190">6</text>
+    <text x="24" y="238">8</text><text x="24" y="262">9</text>
+  </g>
+
+  <g xml:space="preserve">
+    <text class="c row r1" x="60" y="70"><tspan class="kw">class</tspan> <tspan class="cl">Sai</tspan>:</text>
+    <text class="c row r2" x="60" y="94">    <tspan class="at">role    </tspan> = <tspan class="st">"Final-year Cyber Security student @ Amrita Vishwa Vidyapeetham, Chennai"</tspan></text>
+    <text class="c row r3" x="60" y="118">    <tspan class="at">building</tspan> = [<tspan class="st">"memory forensics tools"</tspan>, <tspan class="st">"API security scanners"</tspan>, <tspan class="st">"network analysis"</tspan>]</text>
+    <text class="c row r4" x="60" y="142">    <tspan class="at">research</tspan> = <tspan class="st">"AI x Offensive Security (capstone)"</tspan></text>
+    <text class="c row r5" x="60" y="166">    <tspan class="at">plays   </tspan> = <tspan class="st">"CTFs: forensics + network analysis"</tspan></text>
+    <text class="c row r6" x="60" y="190">    <tspan class="at">tinkers </tspan> = <tspan class="st">"embedded security (ESP8266, Arduino)"</tspan></text>
+    <text class="c row r7" x="60" y="238">    <tspan class="kw">def</tspan> <tspan class="cl">motto</tspan>(<tspan class="at">self</tspan>):</text>
+    <text class="c row r8" x="60" y="262">        <tspan class="kw">return</tspan> <tspan class="hl">"built with caffeine &amp; curiosity"</tspan></text>
+    <text class="c row r9" x="60" y="304"><tspan class="cm"># python3 dossier.py  →  exit status 0</tspan>  <tspan class="cl blink">█</tspan></text>
+  </g>
+</svg>
