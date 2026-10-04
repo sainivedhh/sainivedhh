@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono','Courier New',monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f13"/>
+      <stop offset="0.55" stop-color="#0d1a17"/>
+      <stop offset="1" stop-color="#0a0f13"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ff9c" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00b3fe" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00ff9c" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="typeclip">
+      <rect x="40" y="196" height="26" width="0">
+        <animate attributeName="width" values="0;470;470;0" keyTimes="0;0.5;0.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="260" rx="10" fill="url(#bg)" stroke="#3b4b3f" stroke-opacity="0.7"/>
+  <rect width="900" height="260" rx="10" fill="url(#grid)"/>
+
+  <!-- moving scan beam -->
+  <rect x="0" width="900" height="3" fill="url(#glow)" opacity="0.5">
+    <animate attributeName="y" values="0;257;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- telemetry -->
+  <g font-size="10" fill="#849587" letter-spacing="1.2">
+    <text x="24" y="28">LAT: 13.0827° N  //  LON: 80.2707° E (CHENNAI_NODE)</text>
+    <text x="876" y="28" text-anchor="end">TARGET_CLEARANCE: CLASSIFIED_L4</text>
+  </g>
+
+  <!-- prompt -->
+  <rect x="40" y="54" width="10" height="10" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="60" y="64" font-size="14" font-weight="700" fill="#00ff9c" letter-spacing="2">ROOT@NIVEDH:~$</text>
+
+  <!-- name -->
+  <text x="40" y="128" font-size="50" font-weight="700" fill="#f3fff3" letter-spacing="-1">Sai Nivedh S</text>
+  <text x="42" y="156" font-size="14" fill="#89ceff">@sainivedhh  ·  Cyber Security @ Amrita Vishwa Vidyapeetham, Chennai</text>
+
+  <!-- status pill -->
+  <g transform="translate(40,170)">
+    <rect width="0" height="0"/>
+  </g>
+  <g>
+    <circle cx="676" cy="60" r="4" fill="#00ff9c">
+      <animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="662" y="46" width="214" height="28" rx="4" fill="#00ff9c" fill-opacity="0.08" stroke="#00ff9c" stroke-opacity="0.4"/>
+    <circle cx="676" cy="60" r="3" fill="#00ff9c"/>
+    <text x="688" y="64" font-size="9" font-weight="700" fill="#00ff9c" letter-spacing="1">OPEN TO COLLAB &amp; INTERNSHIPS</text>
+  </g>
+
+  <!-- typed line -->
+  <text x="40" y="186" font-size="11" fill="#3b4b3f">$ cat bio.txt</text>
+  <g clip-path="url(#typeclip)">
+    <text x="40" y="214" font-size="15" fill="#00ff9c" textLength="470" lengthAdjust="spacingAndGlyphs">&gt; Memory forensics | API scanners | Network analysis</text>
+  </g>
+  <rect y="199" width="9" height="18" fill="#00ff9c">
+    <animate attributeName="x" values="40;510;510;40" keyTimes="0;0.5;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- bottom bar -->
+  <g font-size="10" fill="#849587" letter-spacing="1.2">
+    <text x="24" y="246">[HOST: INTEL-CORE-NODE]</text>
+    <text x="876" y="246" text-anchor="end" fill="#00ff9c">SECURE CONNECTION</text>
+  </g>
+</svg>
